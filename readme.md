@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-cargo install --git https://github.com/iguntur/touchp
+cargo install touchp
 ```
 
 ## How to use
