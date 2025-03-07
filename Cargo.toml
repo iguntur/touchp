@@ -6,4 +6,4 @@ authors = ["Guntur Poetra"]
 edition = "2021"
 repository = "https://github.com/iguntur/touchp"
 license = "MIT"
-categories = ["CLI", "command-line-utilities", "touch"]
+categories = ["command-line-utilities", "development-tools", "filesystem"]
