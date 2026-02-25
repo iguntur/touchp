@@ -3,7 +3,10 @@ name = "touchp"
 description = "Create file(s) recursively like `mkdir -p`"
 version = "0.1.1"
 authors = ["Guntur Poetra"]
-edition = "2021"
+edition = "2024"
 repository = "https://github.com/iguntur/touchp"
 license = "MIT"
 categories = ["command-line-utilities", "development-tools", "filesystem"]
+
+[dev-dependencies]
+tempfile = "=3.26.0"
