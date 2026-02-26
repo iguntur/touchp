@@ -1,7 +1,7 @@
 [package]
 name = "touchp"
 description = "Create file(s) recursively like `mkdir -p`"
-version = "0.1.1"
+version = "0.2.0"
 authors = ["Guntur Poetra"]
 edition = "2024"
 repository = "https://github.com/iguntur/touchp"
